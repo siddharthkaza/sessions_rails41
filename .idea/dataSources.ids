@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component name="dataSourceStorage">
-  <data-source source="LOCAL" name="Rails sessionsdemo_rails41: development" uuid="d76aa459-4a68-4f40-8730-51b71a926cae">
+  <data-source name="Rails sessionsdemo_rails41: development" uuid="d76aa459-4a68-4f40-8730-51b71a926cae">
     <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
   </data-source>
 </component>
